@@ -1,0 +1,16 @@
+{
+  "people": [
+    {
+      "name": "이지환",
+      "group": ["youth", "men"]
+    },
+    {
+      "name": "이재숙",
+      "group": ["adult", "women"]
+    },
+    {
+      "name": "서평원",
+      "group": ["adult", "men"]
+    }
+  ]
+}
