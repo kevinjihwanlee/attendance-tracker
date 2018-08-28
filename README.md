@@ -1,4 +1,5 @@
 ## TODO
+* make sure a checkbox or Android working component is used for Person.js instead of Switch (which is for iOS)
 * text input component
 * use hangul.js to filter names given text input?
 

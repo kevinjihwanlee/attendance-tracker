@@ -1,16 +1,22 @@
 {
   "people": [
     {
+      "key": "1",
       "name": "이지환",
-      "group": ["youth", "men"]
+      "group": ["youth", "men"],
+      "present": false
     },
     {
+      "key": "2",
       "name": "이재숙",
-      "group": ["adult", "women"]
+      "group": ["adult", "women"],
+      "present": false
     },
     {
+      "key": "3",
       "name": "서평원",
-      "group": ["adult", "men"]
+      "group": ["adult", "men"],
+      "present": false
     }
   ]
 }
